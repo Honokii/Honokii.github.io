@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b4e9f3d-fc81-452c-9dfc-3d3569e4ee8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/kproject-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/kproject-9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -51,6 +49,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecapSpentCounter">
+    <option name="endsOfQuotaMs" value="1770985856293" />
+    <option name="spentUsd" value="0.00703375" />
+  </component>
+  <component name="RecapUselessUpdatesCounter">
+    <option name="suspendCountdown" value="9" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6b4e9f3d-fc81-452c-9dfc-3d3569e4ee8a" name="Changes" comment="" />
@@ -59,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753947021506</updated>
       <workItem from="1753947028730" duration="5263000" />
-      <workItem from="1769506336303" duration="1969000" />
+      <workItem from="1769506336303" duration="2992000" />
     </task>
     <servers />
   </component>
